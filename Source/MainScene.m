@@ -10,4 +10,9 @@
 
 @implementation MainScene
 
+- (void) pressedRestart:(id)sender
+{
+    [[CCDirector sharedDirector] replaceScene:[CCBReader loadAsScene:@"MainScene"] withTransition:[CCTransition transitionFadeWithColor:[CCColor blackColor] duration:0.5]];
+}
+
 @end
