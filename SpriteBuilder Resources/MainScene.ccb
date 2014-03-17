@@ -321,17 +321,15 @@
 									<integer>3</integer>
 									<key>value</key>
 									<array>
-										<real>-976.237060546875</real>
+										<real>-831.237060546875</real>
 										<real>-689.59844970703125</real>
 									</array>
 								</dict>
 								<dict>
 									<key>easing</key>
 									<dict>
-										<key>opt</key>
-										<real>2</real>
 										<key>type</key>
-										<integer>4</integer>
+										<integer>1</integer>
 									</dict>
 									<key>name</key>
 									<string>position</string>
@@ -341,7 +339,7 @@
 									<integer>3</integer>
 									<key>value</key>
 									<array>
-										<real>-976.237060546875</real>
+										<real>-831.237060546875</real>
 										<real>-689.59844970703125</real>
 									</array>
 								</dict>
@@ -405,8 +403,8 @@
 						<string>Position</string>
 						<key>value</key>
 						<array>
-							<real>-1314.23388671875</real>
-							<real>-67.51837158203125</real>
+							<real>-831.237060546875</real>
+							<real>-689.59844970703125</real>
 							<integer>0</integer>
 							<integer>0</integer>
 							<integer>0</integer>
@@ -835,8 +833,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 			<dict>
 				<key>UUID</key>
@@ -926,8 +922,6 @@
 						</array>
 					</dict>
 				</array>
-				<key>selected</key>
-				<true/>
 			</dict>
 		</array>
 		<key>customClass</key>
@@ -1067,13 +1061,13 @@
 			<key>name</key>
 			<string>Default Timeline</string>
 			<key>offset</key>
-			<real>21.362592697143555</real>
+			<real>51.420135498046875</real>
 			<key>position</key>
-			<real>31.166666030883789</real>
+			<real>60</real>
 			<key>resolution</key>
 			<real>30</real>
 			<key>scale</key>
-			<real>47.12640380859375</real>
+			<real>32</real>
 			<key>sequenceId</key>
 			<integer>0</integer>
 			<key>soundChannel</key>
